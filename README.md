@@ -33,7 +33,7 @@ This project is an AI assistant built to provide practical weather advice and pe
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/st9ho3/ts_ag_llama3.1_calc.git
    cd your-repo-name
    ```
 
